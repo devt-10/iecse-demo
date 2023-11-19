@@ -1,0 +1,45 @@
+- snap scroll
+- change text color for navbar when it's on a black section
+- desktop hamburger menu should close if you click outside it
+- in the hamburger menu svg and text are not aligned
+- add an animation to menu open and close
+
+- Home page
+    done -> text sizing isnt exactly responsive
+
+- mobile navbar
+    -> animation
+    -> the back button disappears when i expand Projects list
+    -> links and svgs arent aligned properly
+
+- about us
+    -> Add video
+    -> for tablets and phones video frame can be bigger
+    -> for phone size maybe scale the text down a little and decrease the letter spacing
+
+- "Work" responsiveness is a little fucked up 
+    -> on large screens(>1440px) the domain svgs are too small and not centered
+    -> on tablets there's too much gap between svgs and text and svg isnt centered
+    -> for smaller phones (<400px) svgs are too big scale them down
+
+- "Our Team"
+done -> when i switch to mancomm section height reduces
+
+- Contact us
+    ->  not 100vh
+    ->  follow the design wrt typography
+    -> make the white modal solid
+    -> add a little spacing at the bottom for mobile
+    -> make tablet layout same as mobile?
+    -> scale down all the text and icons
+    -> event listener
+
+- Projects
+   done -> change codeportal's mobile image like aether web (with the notification bar and stuff)
+   done -> aether image is the same on both screens
+   done -> hawkeye != cyberhawk
+   done -> no images on tablets 
+   done -> desktop images on mobile too small, maybe the arrows can be smaller and more of a light grey color?
+    -> animate the techstack popup on mobile?
+   done -> make the image viewer like a loop
+   done -> scale down the description text for small phone sizes(<400px)
